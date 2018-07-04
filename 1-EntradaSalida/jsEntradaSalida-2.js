@@ -9,7 +9,7 @@ function mostrar()
 	//Undefined
 	//alert(nombre);
 	//nombre="Nicolas";
-	nombre=prompt("Ingrese nombre" , "natalia natalia");
-	alert("su nombre es:"+Nicolas);
+	nombre=prompt("Ingrese nombre: " , "Nicolas");
+	alert("Su nombre es: "+ nombre);
 }
 
