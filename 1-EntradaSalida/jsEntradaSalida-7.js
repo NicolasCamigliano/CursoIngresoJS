@@ -9,7 +9,18 @@ function sumar()
 
 function restar()
 {
-	
+var numeroUno; 
+var numeroDos;
+var resultado;
+
+numeroUno=document.getElementById('numeroUno').value;
+numeroUno=parseInt(numeroUno);
+numeroDos=document.getElementById('numeroDos').value;
+numeroDos=parseInt(numeroDos);
+resultado= numeroUno-numeroDos;
+
+alert("El resto es " + resultado);
+
 }
 
 function multiplicar()
