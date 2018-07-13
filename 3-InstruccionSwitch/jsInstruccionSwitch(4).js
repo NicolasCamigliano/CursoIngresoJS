@@ -9,11 +9,8 @@ switch(mesDelAño)
 	alert("Tiene más de 28 días.");
 	break;
 case "Abril":
-	alert("Tiene más de 30 días.");
 case "Junio":
-	alert("Tiene más de 30 días.");
-case "Septiembre":
-	alert("Tiene más de 30 días.");
+case "Septiembre":	
 case "Noviembre":
 	alert("Tiene más de 30 días.");
 	break;
